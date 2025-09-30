@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 3,
+      "title": "التفسير وعلوم القرآن",
+      "icon": "menu_book",
+      "remote": true
+    },
+    {
+      "id": 4,
+      "title": "السيرة النبوية",
+      "icon": "history",
+      "remote": true
+    },
+    {
+      "id": 5,
+      "title": "الحديث وعلومه",
+      "icon": "chat",
+      "remote": true
+    },
+    {
+      "id": 6,
+      "title": "الأخلاق والآداب",
+      "icon": "diversity",
+      "remote": true
+    }
+  ]
+}
