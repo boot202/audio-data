@@ -1,0 +1,74 @@
+{
+  "أخطاء المصلين": [
+    {
+      "id": 1001,
+      "title": "الحلقة الجديدة - الأخطاء في الركوع",
+      "author": "الشيخ فضل الكلدي",
+      "duration": "22:30",
+      "googleDriveId": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+      "size": "4.5 MB",
+      "description": "حلقة جديدة تناقش الأخطاء الشائعة في الركوع",
+      "category": "أخطاء المصلين",
+      "dateAdded": "2024-01-15"
+    },
+    {
+      "id": 1002,
+      "title": "الأخطاء في السجود - تفصيل",
+      "author": "الشيخ فضل الكلدي",
+      "duration": "19:15",
+      "googleDriveId": "1ib3ZkIiPyJhm20g0zwd7tPNoI9hQxc5M",
+      "size": "4.1 MB",
+      "description": "تفصيل للأخطاء التي تقع في السجود وطريقة تصحيحها",
+      "category": "أخطاء المصلين",
+      "dateAdded": "2024-01-20"
+    },
+    {
+      "id": 1003,
+      "title": "أخطاء في قراءة الفاتحة",
+      "author": "الشيخ فضل الكلدي",
+      "duration": "17:45",
+      "googleDriveId": "1GHI789jkl012MNO345pqr",
+      "size": "3.8 MB",
+      "description": "تصحيح الأخطاء الشائعة في قراءة سورة الفاتحة",
+      "category": "أخطاء المصلين",
+      "dateAdded": "2024-01-25"
+    }
+  ],
+  "سحر البيان": [
+    {
+      "id": 2001,
+      "title": "البلاغة في الحديث النبوي",
+      "author": "الشيخ محمد العثيمين",
+      "duration": "30:15",
+      "googleDriveId": "1JKL012mno345PQR678stu",
+      "size": "6.2 MB",
+      "description": "تحليل بلاغي لأحاديث النبي صلى الله عليه وسلم",
+      "category": "سحر البيان",
+      "dateAdded": "2024-01-10"
+    },
+    {
+      "id": 2002,
+      "title": "أسرار البيان القرآني",
+      "author": "الشيخ محمد العثيمين",
+      "duration": "28:40",
+      "googleDriveId": "1MNO345pqr678STU901vwx",
+      "size": "5.9 MB",
+      "description": "اكتشاف أسرار البلاغة في القرآن الكريم",
+      "category": "سحر البيان",
+      "dateAdded": "2024-01-18"
+    }
+  ],
+  "التجويد": [
+    {
+      "id": 3001,
+      "title": "أحكام النون الساكنة والتنوين",
+      "author": "الشيخ أحمد العجمي",
+      "duration": "25:20",
+      "googleDriveId": "1PQR678stu901VWX234yza",
+      "size": "5.5 MB",
+      "description": "شرح شامل لأحكام النون الساكنة والتنوين",
+      "category": "التجويد",
+      "dateAdded": "2024-02-01"
+    }
+  ]
+}
