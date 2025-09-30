@@ -1,0 +1,210 @@
+{
+  "التفسير وعلوم القرآن": [
+    {
+      "id": 3,
+      "title": "تفسير سورة البقرة",
+      "description": "تفسير الشيخ فضل الكلدي لسورة البقرة",
+      "icon": "volume_up",
+      "audioFiles": [
+        {
+          "id": 100,
+          "title": "الآيات 1-10",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "25:30",
+          "size": "24.1 MB"
+        },
+        {
+          "id": 101,
+          "title": "الآيات 11-20",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "28:15",
+          "size": "26.8 MB"
+        },
+        {
+          "id": 102,
+          "title": "الآيات 21-30",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "23:45",
+          "size": "22.3 MB"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "تفسير سورة الكهف",
+      "description": "تفسير الشيخ فضل الكلدي لسورة الكهف",
+      "icon": "volume_up",
+      "audioFiles": [
+        {
+          "id": 103,
+          "title": "قصة أصحاب الكهف",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "32:10",
+          "size": "30.2 MB"
+        },
+        {
+          "id": 104,
+          "title": "قصة صاحب الجنتين",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "29:45",
+          "size": "27.9 MB"
+        }
+      ]
+    }
+  ],
+  "السيرة النبوية": [
+    {
+      "id": 5,
+      "title": "المرحلة المكية",
+      "description": "سيرة النبي ﷺ في مكة - للشيخ فضل الكلدي",
+      "icon": "volume_up",
+      "audioFiles": [
+        {
+          "id": 105,
+          "title": "النشأة والبعثة",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "35:20",
+          "size": "33.1 MB"
+        },
+        {
+          "id": 106,
+          "title": "الدعوة السرية والجهرية",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "31:45",
+          "size": "29.8 MB"
+        },
+        {
+          "id": 107,
+          "title": "عام الحزن والهجرة",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "38:10",
+          "size": "35.7 MB"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "المرحلة المدنية",
+      "description": "سيرة النبي ﷺ في المدينة - للشيخ فضل الكلدي",
+      "icon": "volume_up",
+      "audioFiles": [
+        {
+          "id": 108,
+          "title": "بناء الدولة الإسلامية",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "34:25",
+          "size": "32.3 MB"
+        },
+        {
+          "id": 109,
+          "title": "الغزوات والسرايا",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "40:15",
+          "size": "37.8 MB"
+        }
+      ]
+    }
+  ],
+  "الحديث وعلومه": [
+    {
+      "id": 7,
+      "title": "الأربعون النووية",
+      "description": "شرح الأربعون النووية - للشيخ فضل الكلدي",
+      "icon": "volume_up",
+      "audioFiles": [
+        {
+          "id": 110,
+          "title": "الحديث الأول: النية",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "22:30",
+          "size": "21.1 MB"
+        },
+        {
+          "id": 111,
+          "title": "الحديث الثاني: الإسلام والإيمان",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "26:45",
+          "size": "25.2 MB"
+        },
+        {
+          "id": 112,
+          "title": "الحديث الثالث: أركان الإسلام",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "24:20",
+          "size": "22.9 MB"
+        }
+      ]
+    }
+  ],
+  "الأخلاق والآداب": [
+    {
+      "id": 8,
+      "title": "آداب طالب العلم",
+      "description": "آداب طالب العلم - للشيخ فضل الكلدي",
+      "icon": "volume_up",
+      "audioFiles": [
+        {
+          "id": 113,
+          "title": "آداب مع النفس",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "27:15",
+          "size": "25.6 MB"
+        },
+        {
+          "id": 114,
+          "title": "آداب مع الشيخ",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "25:40",
+          "size": "24.1 MB"
+        },
+        {
+          "id": 115,
+          "title": "آداب مع الزملاء",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "23:55",
+          "size": "22.4 MB"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "الأخلاق الإسلامية",
+      "description": "سلسلة الأخلاق الإسلامية - للشيخ فضل الكلدي",
+      "icon": "volume_up",
+      "audioFiles": [
+        {
+          "id": 116,
+          "title": "الصدق والأمانة",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "29:30",
+          "size": "27.7 MB"
+        },
+        {
+          "id": 117,
+          "title": "التواضع والحياء",
+          "author": "الشيخ فضل الكلدي",
+          "remoteUrl": "1YZk5SIi_RMqRiyGde7o9ut-WtmKAvgNi",
+          "duration": "26:45",
+          "size": "25.1 MB"
+        }
+      ]
+    }
+  ]
+}
